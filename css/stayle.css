@@ -9,7 +9,7 @@ body {
     font-family: 'Poppins', sans-serif;
     margin-bottom: 40px;
     margin: 0;
-    background:url('/assets/bacground.png');
+    background:url('./assets/bacground.png');
     /* background-position: center; */
     background-size: cover;
     background-repeat: no-repeat;
@@ -115,7 +115,7 @@ footer{
 @media (max-width: 40.625em) {
 
     body{
-        background: url('/assets/111203-ONYU9B-674.jpg');
+        background: url('./assets/111203-ONYU9B-674.jpg');
         background-repeat: repeat;
         background-size: cover;
         background-position: center;
