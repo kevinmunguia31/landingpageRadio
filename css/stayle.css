@@ -69,6 +69,10 @@ aside {
     margin-top: 50px;
 }
 
+aside .logo2{
+    display: none;
+}
+
 aside .area1{
     margin-left: 40px;
     margin-top: 60px;
@@ -166,6 +170,11 @@ footer{
     }
     aside p{
         margin: 15px;
+    }
+
+    aside .logo2{
+        display: inline;
+        margin-top: 30px;
     }
 
 }
